@@ -11,6 +11,7 @@ Experimental Python coursework related to a four-cable, two-dimensional robot: k
 
 - `robotics/ropebot_gui.py` — original robot GUI source.
 - `robotics/kintest.py` — original kinematics test code.
+- `ev3-labs/` — original EV3 practical exercises on motion and sensors (group coursework).
 
 ## Running the project
 
